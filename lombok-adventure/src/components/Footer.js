@@ -40,10 +40,10 @@ const Footer = () => {
                         <div class="card-body w-100">
                             <h5 class="card-title py-2">Lombok Trv</h5>
                             <p class="card-text descFooter">consectetur adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla facilisi nullam vehicula ipsum a arcu cursus vitae congue. consectetur adipiscing elit duis tristique sollicitudin nibh sit amet commodo. nibh sit amet commodo nulla facilisi nullam vehicula ipsum a arcu cursus vitae congue.</p>
-                            <a class="bi bi-instagram pe-2" href="#instagram"></a>
-                            <a class="bi bi-facebook pe-2" href="#facebook"></a>
-                            <a class="bi bi-twitter pe-2" href="#twitter"></a>
-                            <a class="bi bi-youtube" href="#youtube"></a>
+                            <a href="#instagram"><i className="bi bi-instagram pe-2"></i></a>
+                            <a href="#facebook"><i className="bi bi-facebook pe-2"></i></a>
+                            <a href="#twitter"><i className="bi bi-twitter pe-2"></i></a>
+                            <a href="#youtube"><i className="bi bi-youtube pe-2"></i></a>
                         </div>
                         </div>
                         <div className="cardFooter w-100">

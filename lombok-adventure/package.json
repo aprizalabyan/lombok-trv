@@ -1,5 +1,6 @@
 {
   "name": "lombok-adventure",
+  "homepage": "https://aprizalabyan.github.io/lombok-trv",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
